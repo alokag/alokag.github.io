@@ -1,7 +1,7 @@
 ---
 layout: page
-title: privacy
-permalink: /privacy/
+title: About
+permalink: /evs/
 ---
 
 Some information about you!

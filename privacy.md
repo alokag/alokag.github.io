@@ -1,5 +1,5 @@
 ---
-layout: app_privacy_policy
+layout: page
 title: privacy
 permalink: /privacy/
 ---
